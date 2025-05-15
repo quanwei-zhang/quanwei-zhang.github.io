@@ -3,9 +3,9 @@ secondary_name: "张铨炜"
 navbar_name: "Quanwei Zhang"
 
 positions:
-# - logo: /assets/images/badges/uvic-logo-letters.png  # Logo is optional
-#   name: Ph.D. Student
-- name: Ph.D. Student
+- logo: /assets/images/badges/uvic-logo-letters.png  # Logo is optional
+  name: Ph.D. Student
+# - name: Ph.D. Student
 
 
 email: "quanweizhang@uvic.ca"
@@ -23,7 +23,7 @@ cv_link: /assets/files/cv.pdf
 short_bio_text_justify: false
 short_bio: >-
   <p>
-  Welcome to my homepage! I am a Ph.D. student in the Department of Computer Science at the University of Victoria, Canada. I am fortunate to be advised by <a href="https://webhome.cs.uvic.ca/~pan/" target="_blank">Prof. Jianping Pan</a>. Before coming to Canada, I received my M.E. and B.E. degrees in Computer Science from Southeast University, China, where I was advised by <a href="https://csqjxiao.github.io/PersonalPage/index.html" target="_blank">Prof. Qingjun Xiao</a> and <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>, respectively.
+  Welcome to my homepage! I am currently a Ph.D. student in the Department of Computer Science at the University of Victoria, Canada. I am fortunate to be advised by <a href="https://webhome.cs.uvic.ca/~pan/" target="_blank">Prof. Jianping Pan</a>. Before coming to Canada, I received my M.E. and B.E. degrees in Computer Science from Southeast University, China, where I was advised by <a href="https://csqjxiao.github.io/PersonalPage/index.html" target="_blank">Prof. Qingjun Xiao</a> and <a href="https://fei-tong.github.io/" target="_blank">Prof. Fei Tong</a>, respectively.
   </p>
   <p>
     My current research interests lie in communication-efficient learning and optimization in Low Earth Orbit (LEO) satellite networks. My recent work focuses on enhancing data-driven intelligence over LEO constellations, as well as exploring the integration of LEO satellite systems with vehicular networks to enable robust, low-latency communication for future intelligent transportation systems.
