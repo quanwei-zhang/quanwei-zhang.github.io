@@ -63,9 +63,16 @@ education:
 #   date: Sep. 2019 - Jul. 2021
 
 awards:
+- name: IEEE INFOCOM Student Travel Grant
+  date: 2026
 - name: University of Victoria Fellowship
-  date: 2024
+  date: 2024-2025
 - name: National Scholarship, China
   date: 2023
 - name: Graduate Academic Scholarship
-  date: 2022
+  date: 2021-2024
+
+experience:
+- name: Teaching Assistant, UVic CSC360 Operating Systems
+  position: Tutorial Instructor and Grader
+  date: Sep. 2025 - Aug. 2026
