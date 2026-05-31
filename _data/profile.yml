@@ -38,7 +38,7 @@ portrait_caption: >-
 
 education:
 - name: University of Victoria
-  logo: /assets/images/badges/uvic-logo-sq.png
+  logo: /assets/images/badges/uvic-logo-sq.jpg
   position: >- 
     Department of Computer Science <br/>
     Ph.D. Student
@@ -74,5 +74,6 @@ awards:
 
 experience:
 - name: Teaching Assistant, UVic CSC360 Operating Systems
+  logo: /assets/images/badges/uvic-logo-letters.jpg
   position: Tutorial Instructor and Grader
   date: Sep. 2025 - Aug. 2026
